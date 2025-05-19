@@ -59,4 +59,4 @@ To run this project interactively, you’ll need the following:
   - `wordcloud`
   - (Optional for enhanced interactivity) `ipywidgets`
 
-You can install the requirements with:
+
